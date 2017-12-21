@@ -57,6 +57,7 @@ spring.profiles: jacksparrow
 spring.profiles.include:
   - jms-activemq
 spring.port: 8081
+fail-fast: true
 ---
 # JMS - ActiveMQ
 spring:
