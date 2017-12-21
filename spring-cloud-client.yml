@@ -4,5 +4,5 @@
 spring.profiles: jacksparrow
 spring.profiles.include:
   - jms-activemq
-spring.port: 8081
+server.port: 8081
 spring.cloud.config.fail-fast: true
